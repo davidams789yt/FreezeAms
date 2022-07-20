@@ -1,0 +1,9 @@
+name: FreezeAms
+description: El plugin FreezeAms de davidams789
+author: davidams789
+main: me.davidams789.FreezeAms.Main
+version: 0.0.1
+
+commands:
+  ss:
+    description: El comando SS del plugin FreezeAms
